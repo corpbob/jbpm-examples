@@ -1,4 +1,5 @@
-Repository Init Content
-=======================
+# Multi-Instance Demo
 
-Your project description here.
+This is a sample project how to configure a multi-instance sub-process in jBPM.
+
+
